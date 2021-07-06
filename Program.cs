@@ -8,7 +8,7 @@ namespace Exercicio_itau
         {
             Console.WriteLine("**** Lista de Exercícios ****");
 
-            /* Console.WriteLine("\n");
+        /*  Console.WriteLine("\n");
             Exercicio01.Executar();
             Console.WriteLine("\n");
             Exercicio02.Executar();
@@ -16,8 +16,17 @@ namespace Exercicio_itau
             Exercicio03.Executar();
             Console.WriteLine("\n"); 
             Exercicio04.Executar();
-            Console.WriteLine("\n");*/
+            Console.WriteLine("\n");
             Exercicio05.Executar();
+            Console.WriteLine("\n"); */
+
+
+
+            Exercicio09.Executar();
+             Console.WriteLine("\n");
+             Exercicio10.Executar();
+             Console.WriteLine("\n");
+
 
 
 
