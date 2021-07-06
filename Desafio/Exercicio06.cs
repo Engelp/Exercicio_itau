@@ -37,7 +37,7 @@ namespace Exercicio_itau
             break;
             default:
                 dia = "Valor inválido";
-                break;
+                break; 
             }
 
             Console.WriteLine ("Dia da semana: " + dia);

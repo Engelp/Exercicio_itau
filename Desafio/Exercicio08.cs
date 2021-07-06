@@ -38,7 +38,7 @@ namespace desafio
                     }
                 }
             }
-            else
+            else 
             {
                 Console.WriteLine("Não é um triangulo.");
             }

@@ -36,7 +36,7 @@ namespace Exercicio_itau
                 situacao = "E";
             }
 
-            Console.WriteLine("Média: " + media);
+            Console.WriteLine("Média: " + media); 
             Console.WriteLine("Conceito: " + situacao);
   
         }
