@@ -1,0 +1,16 @@
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\bin\Debug\net5.0\Exercicio_itau.exe
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\bin\Debug\net5.0\Exercicio_itau.deps.json
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\bin\Debug\net5.0\Exercicio_itau.runtimeconfig.json
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\bin\Debug\net5.0\Exercicio_itau.runtimeconfig.dev.json
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\bin\Debug\net5.0\Exercicio_itau.dll
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\bin\Debug\net5.0\ref\Exercicio_itau.dll
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\bin\Debug\net5.0\Exercicio_itau.pdb
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\obj\Debug\net5.0\Exercicio_itau.csproj.AssemblyReference.cache
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\obj\Debug\net5.0\Exercicio_itau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\obj\Debug\net5.0\Exercicio_itau.AssemblyInfoInputs.cache
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\obj\Debug\net5.0\Exercicio_itau.AssemblyInfo.cs
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\obj\Debug\net5.0\Exercicio_itau.csproj.CoreCompileInputs.cache
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\obj\Debug\net5.0\Exercicio_itau.dll
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\obj\Debug\net5.0\ref\Exercicio_itau.dll
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\obj\Debug\net5.0\Exercicio_itau.pdb
+C:\Users\Caio Antunes\Documents\GitHub\Exercicio_itau\obj\Debug\net5.0\Exercicio_itau.genruntimeconfig.cache
